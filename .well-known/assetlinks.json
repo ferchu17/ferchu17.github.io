@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ar.com.delben.informenovedades",
+      "sha256_cert_fingerprints": [
+        "78:1B:F0:F6:39:44:D5:3C:02:E4:CF:16:0A:F0:FD:92:8B:AF:F3:64:0C:2F:53:3C:AC:F4:19:66:2A:5B:50:B0"
+      ]
+    }
+  }
+]
